@@ -1,0 +1,19 @@
+p {
+    font-weight: bolder;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    
+}
+span {
+    color: red;
+}
+
+form {
+    background-color: lightyellow;
+}
